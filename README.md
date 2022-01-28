@@ -1,7 +1,5 @@
 ### Hi there,this is AxisZql👋
 
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=AxisZql&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
-
 > - 🔭 I’m currently working on Python, Go and Microservices development; 
 > - 🌱 I’m currently learning Vue and Go;
 > - 🌈 I look forward to working on cloud native development in the future;
