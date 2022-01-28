@@ -20,8 +20,7 @@
 	<img src="https://img.shields.io/badge/PHP-7.2-777bb3?logo=PHP&logoColor=777bb3"/>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
-
+     <img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
     <img src="https://img.shields.io/badge/Shell-1.0-3e484a?logo=GNU%20Bash&logoColor=ffffff"/>
 </p>
 
