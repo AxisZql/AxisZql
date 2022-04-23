@@ -11,7 +11,7 @@
 ### 🍀 Used development language
 
 <p align="center">
-	<img src="https://img.shields.io/badge/GO-1.14-00acd7?logo=Go&logoColor=00acd7"/>
+	<img src="https://img.shields.io/badge/GO-1.18-00acd7?logo=Go&logoColor=00acd7"/>
 	<img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a"/>
 	<img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
 	<img src="https://img.shields.io/badge/Python-3.7-326c9c?logo=Python&logoColor=326c9c"/>
