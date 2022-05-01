@@ -12,7 +12,7 @@ Hi there,this is AxisZql
 
 
 <!-- recent_releases starts -->
-
+* <a href='https://github.com/AxisZql/axis-blog/releases/tag/v1.0.0' target='_blank'>axis-blog Stable version</a> - 2022-05-01
 <!-- recent_releases ends -->
 
 ### 🍀 Used development language
@@ -31,7 +31,9 @@ Hi there,this is AxisZql
 
 <!-- code_time starts -->
 
-
+```text
+Still Gathering Statistics...
+```
 
 <!-- code_time ends -->
 
