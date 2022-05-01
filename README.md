@@ -18,7 +18,7 @@ Hi there,this is AxisZql
 #### 🏋️‍♀️ <a href="https://github.com/AxisZql/AxisZql/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-
+* <a href='https://github.com/AxisZql/axis-blog/releases/tag/v1.0.0' target='_blank'>axis-blog Stable version</a> - 2022-05-01
 <!-- recent_releases ends -->
 
 </td>
@@ -49,12 +49,7 @@ Hi there,this is AxisZql
 <!-- code_time starts -->
 
 ```text
-JavaScript  10 hrs 57 mins  ██████████████████████░░  77.1%
-Markdown           53 mins  █████░░░░░░░░░░░░░░░░░░░   6.2%
-Astro              35 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.2%
-TypeScript         33 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.0%
-Other              29 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.5%
-JSON               25 mins  ████░░░░░░░░░░░░░░░░░░░░   3.0%
+Still Gathering Statistics...
 ```
 
 <!-- code_time ends -->
