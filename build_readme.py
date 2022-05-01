@@ -1,5 +1,4 @@
 from python_graphql_client import GraphqlClient
-import feedparser
 import httpx
 import json
 import pathlib
@@ -102,7 +101,7 @@ def fetch_releases(oauth_token):
 
 def fetch_code_time():
     return httpx.get(
-        "https://gist.githubusercontent.com/AxisZql/aafebeb02c0edf81e7f5b266a6a31550/raw/"
+        "https://gist.githubusercontent.com/AxisZql/64bb8a6176ccd61c088939a05f21dcdf/raw/"
     )
 
 
