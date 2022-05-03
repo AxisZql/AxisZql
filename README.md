@@ -1,7 +1,7 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
-Hi there,this is AxisZql
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24">Hi there,this is AxisZql</img>
+
 
 > - 🔭 I’m currently working on Python, Go and Microservices development; 
 > - 🌱 I’m currently learning Vue and Go;
